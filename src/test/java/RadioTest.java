@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import ru.netology.javaqamvn.Radio;
 
 public class RadioTest {
-
+// new tests
     @Test
     public void shouldUnderMaxStation() {
         Radio radio = new Radio(20);
